@@ -229,6 +229,7 @@ span.nav:hover{
   border-radius: 10px;
   flex-wrap: wrap;
   margin: 4%;
+  padding: 4%;
 }
 
 .contact-head{
